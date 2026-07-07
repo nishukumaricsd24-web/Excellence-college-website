@@ -163,7 +163,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 For questions or support:
 - Email: nishu14project@gmail.com
-- Website: [Excellence College]( https://nishukumaricsd24-web.github.io/Nishu14/)
+- Website: https://nishukumaricsd24-web.github.io/Excellence-college-website/
 
 ## 🙏 Acknowledgments
 
