@@ -38,7 +38,10 @@ Excellence-College-Website/
 ├── index.html          # Main HTML file with all sections
 ├── style.css           # Complete styling and responsive design
 ├── script.js           # Interactive features and form handling
-└── README.md           # Project documentation
+├── README.md           # Project documentation
+└── LICENSE             #  Project license
+
+
 ```
 
 ## 🚀 Getting Started
